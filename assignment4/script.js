@@ -10,5 +10,3 @@ for (var name in names) {
 	}
 }
 })();
-
-
